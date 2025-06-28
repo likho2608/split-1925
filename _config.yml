@@ -20,21 +20,20 @@ source-code: https://github.com/likho2608/split-1925
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Splitska izdanja iz 1925. godine
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Građa Zavičajne zbirke GKMM-a koja datira iz 1925. godine.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "U ovoj digitalnoj zbirci predstavljene su naslovne stranice i izvadci iz izdanja objavljenih godine 1925., a koja ukazuju na kulturu, društvo i povijesne okolnosti tog razdoblja. Između ostalog, ističe se obilježavanje 1000. obljetnice hrvatskog kraljevstva i angažiranost vezana uz srednjovjekovnu povijest unutar historiografskog i književnopovijesnog rada te u umjetničkom stvaralaštvu kojima se traži novi identitet zajednice unutar promijenjenih političko-državnih okolnosti. Drugi gorući problemi, poput epidemije tuberkuloze i emgiracije također su obrađeni u znanstvenoj literaturi, kao i u književnim djelima."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
-
+author: likho2608
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: metapodacisplit1925 - List 1
 
 ##########
 # Site/Organization Branding 
